@@ -43,6 +43,11 @@ li{
     padding: 5px;
 }
 
+
+ul :hover{
+    color: darkgrey;
+}
+
 nav > ul{
     display: flex;
     color: white;
